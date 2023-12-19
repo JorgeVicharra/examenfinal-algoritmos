@@ -1,0 +1,26 @@
+{
+  "trabajadores": [
+    {
+      "nombre_trabajador": "Miguel Daniel",
+      "apellido_trabajador": "Vallejos Salas",
+      "profesion": "Doctor",
+      "puesto": "Medico de cabecera",
+      "DNI": "78903568",
+      "user": "Miguel",
+      "contrase\u00f1a": "123"
+    }
+  ],
+  "administradores": [
+    {
+      "user": "admin",
+      "contrase\u00f1a": "admin",
+      "rango_admin": "admin"
+    }
+  ],
+  "clientes": [
+    {
+      "user": "Gabriel",
+      "contrase\u00f1a": "123"
+    }
+  ]
+}
